@@ -1,0 +1,881 @@
+Name: foot_r
+Nr: 46
+
+Children:
+
+Name: ball_r
+Nr: 47
+Parent:
+
+Name: calf_r
+Nr: 45
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: pinky_02_l
+Nr: 11
+
+Children:
+
+Name: pinky_03_l
+Nr: 12
+Parent:
+
+Name: pinky_01_l
+Nr: 10
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: spine_03
+Nr: 3
+
+Children:
+
+Name: neck_01
+Nr: 4
+Name: clavicle_l
+Nr: 6
+Name: clavicle_r
+Nr: 25
+Parent:
+
+Name: spine_02
+Nr: 2
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: pelvis
+Nr: 0
+
+Children:
+
+Name: spine_01
+Nr: 1
+Name: thigh_r
+Nr: 44
+Name: thigh_l
+Nr: 48
+Parent:
+
+Name: RootNode
+Nr: -1
+IsRoot?:
+Yes.
+
+IsLeaf?:
+No.
+
+Name: thigh_r
+Nr: 44
+
+Children:
+
+Name: calf_r
+Nr: 45
+Parent:
+
+Name: pelvis
+Nr: 0
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: spine_01
+Nr: 1
+
+Children:
+
+Name: spine_02
+Nr: 2
+Parent:
+
+Name: pelvis
+Nr: 0
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: spine_02
+Nr: 2
+
+Children:
+
+Name: spine_03
+Nr: 3
+Parent:
+
+Name: spine_01
+Nr: 1
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: neck_01
+Nr: 4
+
+Children:
+
+Name: neck_02
+Nr: 5
+Parent:
+
+Name: spine_03
+Nr: 3
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: upperarm_l
+Nr: 7
+
+Children:
+
+Name: lowerarm_l
+Nr: 8
+Parent:
+
+Name: clavicle_l
+Nr: 6
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: neck_02
+Nr: 5
+
+Children:
+
+Parent:
+
+Name: neck_01
+Nr: 4
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: middle_01_l
+Nr: 16
+
+Children:
+
+Name: middle_02_l
+Nr: 17
+Parent:
+
+Name: hand_l
+Nr: 9
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: clavicle_l
+Nr: 6
+
+Children:
+
+Name: upperarm_l
+Nr: 7
+Parent:
+
+Name: spine_03
+Nr: 3
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: lowerarm_l
+Nr: 8
+
+Children:
+
+Name: hand_l
+Nr: 9
+Parent:
+
+Name: upperarm_l
+Nr: 7
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: hand_l
+Nr: 9
+
+Children:
+
+Name: pinky_01_l
+Nr: 10
+Name: ring_01_l
+Nr: 13
+Name: middle_01_l
+Nr: 16
+Name: index_01_l
+Nr: 19
+Name: thumb_01_l
+Nr: 22
+Parent:
+
+Name: lowerarm_l
+Nr: 8
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: pinky_01_l
+Nr: 10
+
+Children:
+
+Name: pinky_02_l
+Nr: 11
+Parent:
+
+Name: hand_l
+Nr: 9
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: pinky_03_l
+Nr: 12
+
+Children:
+
+Parent:
+
+Name: pinky_02_l
+Nr: 11
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: index_01_l
+Nr: 19
+
+Children:
+
+Name: index_02_l
+Nr: 20
+Parent:
+
+Name: hand_l
+Nr: 9
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: ring_01_l
+Nr: 13
+
+Children:
+
+Name: ring_02_l
+Nr: 14
+Parent:
+
+Name: hand_l
+Nr: 9
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: index_02_l
+Nr: 20
+
+Children:
+
+Name: index_03_l
+Nr: 21
+Parent:
+
+Name: index_01_l
+Nr: 19
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: ring_02_l
+Nr: 14
+
+Children:
+
+Name: ring_03_l
+Nr: 15
+Parent:
+
+Name: ring_01_l
+Nr: 13
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: index_03_l
+Nr: 21
+
+Children:
+
+Parent:
+
+Name: index_02_l
+Nr: 20
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: ring_03_l
+Nr: 15
+
+Children:
+
+Parent:
+
+Name: ring_02_l
+Nr: 14
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: thumb_03_r
+Nr: 43
+
+Children:
+
+Parent:
+
+Name: thumb_02_r
+Nr: 42
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: middle_02_l
+Nr: 17
+
+Children:
+
+Name: middle_03_l
+Nr: 18
+Parent:
+
+Name: middle_01_l
+Nr: 16
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: middle_03_l
+Nr: 18
+
+Children:
+
+Parent:
+
+Name: middle_02_l
+Nr: 17
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: thumb_01_l
+Nr: 22
+
+Children:
+
+Name: thumb_02_l
+Nr: 23
+Parent:
+
+Name: hand_l
+Nr: 9
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: ball_r
+Nr: 47
+
+Children:
+
+Parent:
+
+Name: foot_r
+Nr: 46
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: thumb_02_l
+Nr: 23
+
+Children:
+
+Name: thumb_03_l
+Nr: 24
+Parent:
+
+Name: thumb_01_l
+Nr: 22
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: middle_02_r
+Nr: 36
+
+Children:
+
+Name: middle_03_r
+Nr: 37
+Parent:
+
+Name: middle_01_r
+Nr: 35
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: thumb_03_l
+Nr: 24
+
+Children:
+
+Parent:
+
+Name: thumb_02_l
+Nr: 23
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: middle_01_r
+Nr: 35
+
+Children:
+
+Name: middle_02_r
+Nr: 36
+Parent:
+
+Name: hand_r
+Nr: 28
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: clavicle_r
+Nr: 25
+
+Children:
+
+Name: upperarm_r
+Nr: 26
+Parent:
+
+Name: spine_03
+Nr: 3
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: upperarm_r
+Nr: 26
+
+Children:
+
+Name: lowerarm_r
+Nr: 27
+Parent:
+
+Name: clavicle_r
+Nr: 25
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: lowerarm_r
+Nr: 27
+
+Children:
+
+Name: hand_r
+Nr: 28
+Parent:
+
+Name: upperarm_r
+Nr: 26
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: hand_r
+Nr: 28
+
+Children:
+
+Name: pinky_01_r
+Nr: 29
+Name: ring_01_r
+Nr: 32
+Name: middle_01_r
+Nr: 35
+Name: index_01_r
+Nr: 38
+Name: thumb_01_r
+Nr: 41
+Parent:
+
+Name: lowerarm_r
+Nr: 27
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: pinky_01_r
+Nr: 29
+
+Children:
+
+Name: pinky_02_r
+Nr: 30
+Parent:
+
+Name: hand_r
+Nr: 28
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: foot_l
+Nr: 50
+
+Children:
+
+Name: ball_l
+Nr: 51
+Parent:
+
+Name: calf_l
+Nr: 49
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: pinky_02_r
+Nr: 30
+
+Children:
+
+Name: pinky_03_r
+Nr: 31
+Parent:
+
+Name: pinky_01_r
+Nr: 29
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: pinky_03_r
+Nr: 31
+
+Children:
+
+Parent:
+
+Name: pinky_02_r
+Nr: 30
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: index_01_r
+Nr: 38
+
+Children:
+
+Name: index_02_r
+Nr: 39
+Parent:
+
+Name: hand_r
+Nr: 28
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: ring_01_r
+Nr: 32
+
+Children:
+
+Name: ring_02_r
+Nr: 33
+Parent:
+
+Name: hand_r
+Nr: 28
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: index_02_r
+Nr: 39
+
+Children:
+
+Name: index_03_r
+Nr: 40
+Parent:
+
+Name: index_01_r
+Nr: 38
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: ring_02_r
+Nr: 33
+
+Children:
+
+Name: ring_03_r
+Nr: 34
+Parent:
+
+Name: ring_01_r
+Nr: 32
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: index_03_r
+Nr: 40
+
+Children:
+
+Parent:
+
+Name: index_02_r
+Nr: 39
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: ring_03_r
+Nr: 34
+
+Children:
+
+Parent:
+
+Name: ring_02_r
+Nr: 33
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: middle_03_r
+Nr: 37
+
+Children:
+
+Parent:
+
+Name: middle_02_r
+Nr: 36
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: thumb_01_r
+Nr: 41
+
+Children:
+
+Name: thumb_02_r
+Nr: 42
+Parent:
+
+Name: hand_r
+Nr: 28
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: ball_l
+Nr: 51
+
+Children:
+
+Parent:
+
+Name: foot_l
+Nr: 50
+IsRoot?:
+No.
+
+IsLeaf?:
+Yes.
+
+Name: thumb_02_r
+Nr: 42
+
+Children:
+
+Name: thumb_03_r
+Nr: 43
+Parent:
+
+Name: thumb_01_r
+Nr: 41
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: calf_r
+Nr: 45
+
+Children:
+
+Name: foot_r
+Nr: 46
+Parent:
+
+Name: thigh_r
+Nr: 44
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: thigh_l
+Nr: 48
+
+Children:
+
+Name: calf_l
+Nr: 49
+Parent:
+
+Name: pelvis
+Nr: 0
+IsRoot?:
+No.
+
+IsLeaf?:
+No.
+
+Name: calf_l
+Nr: 49
+
+Children:
+
+Name: foot_l
+Nr: 50
+Parent:
+
+Name: thigh_l
+Nr: 48
+IsRoot?:
+No.
+
+IsLeaf?:
+No.

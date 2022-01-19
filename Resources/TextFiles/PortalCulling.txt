@@ -1,0 +1,4 @@
+#Node nrObjects objects nrPortals portal numChildren childrenNames
+Node0 0 1 Portal0 1 Node1
+Node1 1 Object0 2 Portal0 Portal1 2 Node0 Node2
+Node2 1 Object1 1 Portal1 1 Node1
